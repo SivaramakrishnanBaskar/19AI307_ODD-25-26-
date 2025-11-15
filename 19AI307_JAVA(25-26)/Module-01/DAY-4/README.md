@@ -31,7 +31,7 @@ Register Number: 212222230051
 ```
 
 ## SOURCE CODE:
-```
+```JAVA
 import java.util.Scanner;
 
 public class Main {
@@ -63,5 +63,6 @@ public class Main {
 
 ## RESULT:
 Therefore the program successfully searches the array for the given element.
+
 
 
