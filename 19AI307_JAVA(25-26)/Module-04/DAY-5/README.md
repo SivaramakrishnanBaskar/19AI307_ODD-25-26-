@@ -18,7 +18,7 @@ To implement the Factory Design Pattern to send different types of notifications
 
 
 ## PROGRAM:
- ```java
+ ```
 /*
 Program to implement a Abstract Factory Pattern using Java
 Developed by: JANARTHANAN V K
@@ -27,7 +27,7 @@ Register Number: 212222230051
 ```
 
 ## SOURCE CODE:
-```
+```java
 import java.util.Scanner;
 
 // Notification interface
@@ -102,6 +102,7 @@ public class Main {
 
 ## RESULT:
 The program successfully creates and sends the appropriate type of notification using the Factory Pattern.
+
 
 
 
